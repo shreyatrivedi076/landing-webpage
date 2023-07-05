@@ -1,0 +1,27 @@
+.a{background-color:rgb(104, 125, 175);background-position:fixed;background-size:cover;}
+.logo{color:white;font-family: pristina;letter-spacing:4px;font-size:70px;padding:20px 0px 0px 20px}
+.logo img{height:75px;width:90px;}
+nav ul{float: right;padding-top:50px;word-spacing: 10px;}
+nav ul li{display: inline;}
+nav ul li a{color:white;text-decoration: none;padding:15px 10px 15px 10px;}
+a.active,a:hover{background-color:rgba(209, 212, 220, 0.628);transition:0s;border-radius: 20px 0px 20px 0px;}
+nav ul li a:hover{text-decoration:none;color:white;}
+.body{background-color:rgb(162, 172, 193);border-radius:20px 20px 20px 20px;border:solid black;margin:0px 0px 0px 40px 0px;}
+.b{margin-top:100px;text-align:center;}
+.b h1{color:white;font-weight: bolder;font-family:pristina;font-weight:bolder;letter-spacing:5px;}
+.b button{padding:15px 10px 15px 10px;border-color:rgb(104, 125, 175);border-radius:20px 20px 20px 20px;color:white;font-size:20px;font-family:calibri;letter-spacing:1px;background-color:black;font-weight:bold;box-shadow:5px 5px 5px rgb(49, 53, 63);}
+.b button:hover{transition:0s;background-color: rgb(134, 151, 193);}
+.bb{background-color: rgba(104, 125, 175, 0.662);margin:40px 100px 0px 100px;border-radius:30px 30px 30px 30px;border:dashed black;color:white;font-family:Calibri;letter-spacing:1px;background: repeating-linear-gradient(
+    90deg,
+    rgba(45, 71, 110, 0.2),
+    rgba(44, 84, 144, 0.2) 10px,
+    rgba(35, 88, 149, 0.678) 10px,
+    rgba(31, 85, 129, 0.571) 20px
+  )}
+.c{background-color: rgba(104, 125, 175, 0.662);border-radius:30px 30px 30px 30px;text-align:center;padding:20px 0px 20px 0px;border:dashed black;margin:0px 20px 40px 20px;color:white;font-family:Calibri;letter-spacing:1px;background: repeating-linear-gradient(
+    90deg,
+    rgba(45, 71, 110, 0.2),
+    rgba(44, 84, 144, 0.2) 10px,
+    rgba(35, 88, 149, 0.678) 10px,
+    rgba(31, 85, 129, 0.571) 20px
+  )}
